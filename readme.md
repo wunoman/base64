@@ -3,14 +3,11 @@
 base64 encode and decode tool for handle file or string to file or console
 
 ## Features
-encode
-decode
+encode and inert return or not with -needreturn option.
 
-## Do not support yet
-+ operator overload
+decode and skip any invalid chars.
 
 ## Usage
-+ module and const integral
 ```c++
 base64.exe Encode and Decode tool (20220915)
 
